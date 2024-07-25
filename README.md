@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# This task was created as a clone to a Kanban board that is demonstrated here:
+<img width="646" alt="image" src="https://github.com/user-attachments/assets/aeffa5a5-650e-49e4-beed-d255ff558ada">
+ 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
