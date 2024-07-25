@@ -1,0 +1,14 @@
+.drop-area {
+    display: flex;
+    height: 100px;
+    width: 100%;
+    margin-bottom: 7px;
+    border: 1px dashed #ccc;
+    background-color: #f4f5f7;
+    opacity: 1;
+    transition: all 0.2s ease-in-out;
+} 
+
+.hide-drop-area {
+    opacity: 0;
+}
