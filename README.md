@@ -10,6 +10,7 @@ In the project directory, you can run:
 
 After cloning the app:
 
+### `npm install`
 ### `npm run start`
 
 Runs the app in the development mode.\
