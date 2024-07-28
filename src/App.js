@@ -27,10 +27,7 @@ const Container = styled.div`
   padding: 20px;
   height: 100vh;
   background-color: #e9e9e9;
-
-  @media (max-width: 800px) {
-    flex-wrap: wrap;
-  }
+  flex-wrap: wrap;
 `;
 
 const App = () => {
